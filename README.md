@@ -14,8 +14,6 @@
   <a href="www.linkedin.com/in/gustavo-santos-781657267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guguimaraes13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ba67c386-bb0f-45c1-8a45-2596a7d45388" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <br/>
 <br/>
 <br/>
